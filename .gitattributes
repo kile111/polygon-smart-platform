@@ -1,8 +1,8 @@
-* text=auto eol=lf
-*.{cmd,[cC][mM][dD]} text eol=crlf
-*.{bat,[bB][aA][tT]} text eol=crlf
-*.py text diff=python
-*.json text
-*.md text
-.env* text
+* text=auto
+*.py text diff=python eol=lf
+*.sol text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+.env* text eol=lf
+.git* text eol=lf
 .git* text eol=lf
