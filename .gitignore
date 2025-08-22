@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+app/abi_cache/
+app/deployments.json
+*.log
+
+# Git
+.git/*
+!.git/HEAD
+
+# System
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Additional Python
+*.pyc
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log.*
+.pytest_cache/

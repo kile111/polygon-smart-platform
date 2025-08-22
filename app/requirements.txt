@@ -1,0 +1,6 @@
+streamlit==1.37.1
+web3==6.11.1
+python-dotenv==1.0.1
+py-solc-x==2.0.3
+eth-account==0.9.0
+typing-extensions>=4.12.0
